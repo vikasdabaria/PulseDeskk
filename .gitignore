@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+publish/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Node / Frontend
+node_modules/
+.npm/
+dist/
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
